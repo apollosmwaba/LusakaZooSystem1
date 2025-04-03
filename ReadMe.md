@@ -58,7 +58,7 @@ Methods
 •	assignZookeeperToEnclosure()
 •	enclosureName()
 •	generateZookeeperReport()
-5.	Main Class (Entry Point)
+5.	LusakaZooSystem Class (Entry Point)
 Methods
 •	main(String[] args)
 2. Imagine you need to also implement a method to find all the animals of a specific species within the zoo. 
